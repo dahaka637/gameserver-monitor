@@ -1,0 +1,16 @@
+{
+    "ativo": false,
+    "server_ip": "127.0.0.1", 
+    "server_port": 27015,
+    "check_interval": 60,
+    "failure_limit": 10,
+    "startup_delay": 240,
+    "start_command": "./gmodserver start",
+    "restart_command": "./gmodserver restart",
+    "server_process_names": [
+        "srcds_run",
+        "srcds_linux"
+    ],
+    "discord_webhook_url": "https://discordapp.com/api/webhooks/PLACEHOLDER/PLACEHOLDER",
+    "icon_url": "https://i.imgur.com/9ot4o61.png"
+}
