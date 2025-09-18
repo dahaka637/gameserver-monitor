@@ -6,7 +6,9 @@ Ele verifica periodicamente se o servidor está ativo, reinicia em caso de falha
 O projeto foi criado com foco em **automação, resiliência e simplicidade**.
 
 ---
+
 <img width="494" height="223" alt="image" src="https://github.com/user-attachments/assets/5e17b387-ceb5-470c-911c-7d90965507c9" />
+
 ## Funcionalidades Principais
 - **Monitoramento de Servidor**
   - Verifica a disponibilidade do servidor via IP e porta TCP.
