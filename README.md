@@ -6,7 +6,7 @@ Ele verifica periodicamente se o servidor está ativo, reinicia em caso de falha
 O projeto foi criado com foco em **automação, resiliência e simplicidade**.
 
 ---
-
+<img width="494" height="223" alt="image" src="https://github.com/user-attachments/assets/5e17b387-ceb5-470c-911c-7d90965507c9" />
 ## Funcionalidades Principais
 - **Monitoramento de Servidor**
   - Verifica a disponibilidade do servidor via IP e porta TCP.
@@ -47,7 +47,7 @@ O projeto foi criado com foco em **automação, resiliência e simplicidade**.
 ## Configuração
 
 ### Arquivo `monitor_config.json`
-Exemplo de configuração segura (placeholders):
+Exemplo de configuração (placeholders):
 ```json
 {
     "ativo": true,
@@ -63,7 +63,7 @@ Exemplo de configuração segura (placeholders):
     "icon_url": "https://i.imgur.com/9ot4o61.png" <- Ícone para ser usado no webhook
 }
 ```
-<img width="494" height="223" alt="image" src="https://github.com/user-attachments/assets/5e17b387-ceb5-470c-911c-7d90965507c9" />
+
 
 ---
 
