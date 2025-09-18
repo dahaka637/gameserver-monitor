@@ -121,10 +121,4 @@ Assim, o script será iniciado automaticamente junto com o sistema e reiniciado 
 
 ---
 
-## Possíveis Melhorias Futuras
-- Suporte a múltiplos servidores monitorados no mesmo script.
-- Logs locais persistentes além do envio para o Discord.
-- Interface web para visualização em tempo real.
-
----
 
